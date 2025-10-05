@@ -1,0 +1,11 @@
+python-telegram-bot>=21,<23
+pydantic>=2
+pydantic-settings>=2
+sqlalchemy>=2
+opencv-python
+numpy<2
+pillow
+scikit-learn
+insightface>=0.7
+onnxruntime>=1.16
+python-dotenv
